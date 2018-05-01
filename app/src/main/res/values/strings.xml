@@ -3,4 +3,6 @@
     <string name="textviewdes">Hey! What do i call you.</string>
     <string name="here">here</string>
     <string name="there_you_go">There you go</string>
+    <string name="today_weather">todays weather is...</string>
+    <string name="hey">hey!</string>
 </resources>
